@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MattMcFarland.github.io
+title: Matt McFarland
+email: contact@mattmcfarland.com
+author: Matt McFarland
+description: Articles created by Matt McFarland
+paginate: 3
+google_analytics: UA-17944087-4
